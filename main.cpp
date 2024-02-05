@@ -19,7 +19,7 @@ int main() {
     conversion<int,char>(array, array2, 5);
 
     for (size_t i = 0; i < 5; i++)
-        cout << array1[i] << " ";
+        cout << array1[i] << "  ";
     cout << endl;
     for (size_t i = 0; i < 5; i++)
         cout << array2[i] << " ";
